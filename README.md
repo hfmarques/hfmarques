@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Heber and I have 31 years old. I've been a backend .NET Developer for 8 years with expertise in .NET Core / C#. I am experienced working with cloud-based systems on Kubernetes, asynchronous operations using messaging broker like (RabbitMQ and Amazon SQS) and have a good knowledge of AWS services.
 
-I'm currently working at Universal Music Group and recently led the migration of UMG Latin America & Iberia from on-premises to Kubernetes, bringing the best architecture patterns to the projects and, for example, using asynchronous operations to improve performance alongside with AWS services like S3 and SQS.
+I'm currently working at Universal Music Group and recently led the migration of UMG Latin America & Iberia from on-premises to Kubernetes, bringing the best architecture patterns to the projects and using asynchronous operations alongside with AWS services like S3 and SQS, improving performance, scalability and reliability of the applications.
 
 I also have B.S. in Computer Science from Federal University of Juiz de Fora and have a lot of experience working with international teams.
 
