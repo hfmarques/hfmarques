@@ -32,7 +32,7 @@ Technical Skills:
 
 <br/>
 <a href="https://www.linkedin.com/in/heber-marques-15371572/">
-  <img src="https://img.shields.io/badge/Follow%20me%20-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin Follow">
+  <img src="https://img.shields.io/badge/Follow%20me%20-black?style=for-the-badge&logo=Linkedin" alt="Linkedin Follow">
 </a>
 
 <br/>
